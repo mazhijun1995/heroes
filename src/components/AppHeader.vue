@@ -18,9 +18,9 @@
         data(){
           return{
 
-          }
+          };
         }
-    }
+    };
 </script>
 <style>
 
